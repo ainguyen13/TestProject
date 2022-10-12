@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+    font-size: 33px;
+    text-align: center;
+}
+button {
+    background-color: aquamarine;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button:hover {
+    background-color: white;
+}
